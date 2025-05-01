@@ -1,19 +1,19 @@
 # Kingsleys-Repositary
 <!-- GitHub Profile README Template by ChatGPT -->
 
-<h1 align="center">👋 Hi there, I'm Kingsley Chibogu</h1>
+<h1 align="center">👋 Hi there, I'm KINGSLEY KELECHI CHIBOGU</h1>
 <p align="center">
-  🌍 Learner at <strong>ALX FRONT-END-WEB DEVELOPMENT</strong> | 💻 Aspiring Software Engineer | 🌱 Passionate about CLIMATE-TECH
+  🌍 Software Engineering Learner at <strong>ALX_AFRICA</strong> | 🎨 Front-End Developer | 🤖 AI Explorer | 🌱 Climate-Tech Enthusiast
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m currently a Software Engineering student at , with a specialization in Front-End Web Development.  
+I’m currently a Software Engineering student specializing in Front-End Web Development.  
 I started this journey because I’ve always been passionate about technology’s power to solve real-world problems, especially those tied to climate change, industry transformation, and global sustainability.
 What truly drives me is the intersection of clean code, human-centered design, and emerging technologies like AI and Web3 — all aimed at creating digital tools that empower people and protect our planet.
-My vision is to build interactive, user-friendly platforms that drive climate action and reshape industries through innovation and inclusive design.
+I envision building interactive, user-friendly platforms that drive climate action and reshape industries through innovation and inclusive design.
 
 ---
 
@@ -25,7 +25,7 @@ I'm especially excited to work on:
 - 📱 Progressive Web Apps (PWAs) optimized for low-bandwidth and mobile-first use
 - 🧩 Collaborative open-source tools that solve community or industry-specific problems
 
-These projects help me turn my vision into reality — solving real-world problems with code.
+These projects help me turn my vision into reality, solving real-world problems with code.
 
 ---
 
@@ -56,8 +56,8 @@ These projects help me turn my vision into reality — solving real-world proble
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kingsley-chibogu-516kelechi)
-- 🐦 [Twitter/X](https://twitter.com/@KingChibogu)
+- 💼 LinkedIn: (https://www.linkedin.com/in/kingsley-chibogu-516kelechi)
+- 🐦 Twitter: /X(https://twitter.com/@KingChibogu)
 - 📫 Email: kchibogu1@gmail.com
 - 🌐 Portfolio: (https://rebrand.ly/kingsleychibogu))
 
@@ -67,8 +67,8 @@ These projects help me turn my vision into reality — solving real-world proble
   <summary>📖 Fun Facts About Me</summary>
 
 - ⚽ I enjoy playing football and video games during downtime
-- 📚 Currently learning html and exploring AI integration in front-end development
-- 💡 Favorite quote: just do it. I believe when you feel like doing something, you should "just do it".
+- 📚 Currently learning HTML and exploring AI integration in front-end development
+- 💡 Favorite quote: Just do it. I believe in following momentum—when something calls to you, just do it."
 </details>
 
 ---
